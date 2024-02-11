@@ -233,8 +233,6 @@ package com.company;
             linkedList_implementation.printList();
             linkedList_implementation.head = linkedList_implementation.reverseLinkedListRecursively(linkedList_implementation.head);
             linkedList_implementation.printList();
-
-
         }
     }
 
